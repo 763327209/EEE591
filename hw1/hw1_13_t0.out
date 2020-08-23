@@ -1,0 +1,4 @@
+Enter an integer for a factorial computation: Enter an integer for a Catalan number computation: Enter the first of two integers for a GCD calculation: Enter the second integer for the GCD calculation: 
+factorial of 5 is 120
+catalan value of 20 is 6564120420.0
+greatest common divisor of 32 and 40 is 8
